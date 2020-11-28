@@ -1,0 +1,28 @@
+.section {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.section p {
+  float: left;
+}
+
+.section img {
+  margin-right: 100px;
+  border-radius: 50%;
+  height: 450px;
+  width: 400px;
+}
+
+.icon {
+  height: 30px;
+  width: 30px;
+  margin: 20px;
+}
+
+@media only screen 
+and (max-device-width: 500px) {
+  iframe {
+    width: 100%;
+  }
+}
