@@ -2,7 +2,7 @@ import React from "react";
 import selfie from "../images/selfie.jpg";
 import "../styles/Card.css";
 import Container from "./Container.js";
-import Row from "../components/Row.js";
+import Row from "./Row.js";
 import { Col } from "react-bootstrap";
 import { FaFacebook } from "react-icons/fa";
 import { ImInstagram } from "react-icons/im";
