@@ -35,5 +35,10 @@
   Here is a link to my [Github Profile](https://github.com/dmack095-07)
 
   You can reach me at dianna.mack@yahoo.com for additional questions!
-
  
+
+ <img width="1436" alt="Screen Shot 2020-11-27 at 10 55 02 PM" src="https://user-images.githubusercontent.com/65475404/100494621-e5cf4e80-3108-11eb-9fb6-f527dde873da.png">
+
+<img width="1436" alt="Screen Shot 2020-11-27 at 10 55 17 PM" src="https://user-images.githubusercontent.com/65475404/100494618-d819c900-3108-11eb-96f5-18bf04fc1c00.png">
+
+<img width="1440" alt="Screen Shot 2020-11-27 at 10 55 28 PM" src="https://user-images.githubusercontent.com/65475404/100494273-ea463800-3105-11eb-90b2-75d76b942f37.png">
