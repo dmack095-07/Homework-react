@@ -1,4 +1,5 @@
 import React from "react";
+import Calendar from "../images/Calendar.png";
 import Note from "../images/Note.png";
 import Employee from "../images/employee.png";
 import Team from "../images/Team.png";
@@ -11,7 +12,7 @@ import { Row, Col } from "react-bootstrap";
 const Portfolio = () => {
  return (
       <div>
-        <h2 className="text-center">Homework Assignments</h2>
+        <h2 className="text-center">Homework Assignments/Projects</h2>
         <Container style={{ marginTop: 30 }}>
           <Row>
             <Col size ="">
@@ -20,6 +21,15 @@ const Portfolio = () => {
             </Col>
             <Col size ="md-5">
               <p className="text"> Note-Taker is an application used to write, save, and delete notes. Express was introduced to create HTML and API routes.</p>
+            </Col>
+          </Row>
+          <Row>
+            <Col size ="">
+              <h4><a className="github-links" href="https://github.com/dmack095-07/Calendar">Calendar</a></h4>
+              <img src={Calendar} alt="Calendar" class="github-pic"/>
+            </Col>
+            <Col size ="md-5">
+              <p className="text"> I created a functional calendar for the work week. Notes, todo-list can be created and saved for each timeblock. Each timeblock is represented by color: grey for past, red for present, and green for future. </p>
             </Col>
           </Row>
           <Row>
