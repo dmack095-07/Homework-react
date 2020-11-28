@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Homework-react/static/css/main.95c4bef5.chunk.css",
+    "main.js": "/Homework-react/static/js/main.2f090bc0.chunk.js",
+    "main.js.map": "/Homework-react/static/js/main.2f090bc0.chunk.js.map",
+    "runtime-main.js": "/Homework-react/static/js/runtime-main.af1d3e0a.js",
+    "runtime-main.js.map": "/Homework-react/static/js/runtime-main.af1d3e0a.js.map",
+    "static/css/2.43b2b750.chunk.css": "/Homework-react/static/css/2.43b2b750.chunk.css",
+    "static/js/2.58ab72ee.chunk.js": "/Homework-react/static/js/2.58ab72ee.chunk.js",
+    "static/js/2.58ab72ee.chunk.js.map": "/Homework-react/static/js/2.58ab72ee.chunk.js.map",
+    "index.html": "/Homework-react/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/Homework-react/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.95c4bef5.chunk.css.map": "/Homework-react/static/css/main.95c4bef5.chunk.css.map",
+    "static/js/2.58ab72ee.chunk.js.LICENSE.txt": "/Homework-react/static/js/2.58ab72ee.chunk.js.LICENSE.txt",
+    "static/media/Calendar.20a08646.png": "/Homework-react/static/media/Calendar.20a08646.png",
+    "static/media/Note.a3d1ae1d.png": "/Homework-react/static/media/Note.a3d1ae1d.png",
+    "static/media/Project1.bd26c83f.png": "/Homework-react/static/media/Project1.bd26c83f.png",
+    "static/media/Project2.579dd12d.png": "/Homework-react/static/media/Project2.579dd12d.png",
+    "static/media/Team.2a94cabc.png": "/Homework-react/static/media/Team.2a94cabc.png",
+    "static/media/employee.9902eda1.png": "/Homework-react/static/media/employee.9902eda1.png",
+    "static/media/selfie.55bad043.jpg": "/Homework-react/static/media/selfie.55bad043.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af1d3e0a.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.58ab72ee.chunk.js",
+    "static/css/main.95c4bef5.chunk.css",
+    "static/js/main.2f090bc0.chunk.js"
+  ]
+}
