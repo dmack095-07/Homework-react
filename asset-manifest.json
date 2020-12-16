@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Homework-react/static/css/main.95c4bef5.chunk.css",
-    "main.js": "/Homework-react/static/js/main.2f090bc0.chunk.js",
-    "main.js.map": "/Homework-react/static/js/main.2f090bc0.chunk.js.map",
+    "main.js": "/Homework-react/static/js/main.861f2179.chunk.js",
+    "main.js.map": "/Homework-react/static/js/main.861f2179.chunk.js.map",
     "runtime-main.js": "/Homework-react/static/js/runtime-main.af1d3e0a.js",
     "runtime-main.js.map": "/Homework-react/static/js/runtime-main.af1d3e0a.js.map",
     "static/css/2.43b2b750.chunk.css": "/Homework-react/static/css/2.43b2b750.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.43b2b750.chunk.css",
     "static/js/2.58ab72ee.chunk.js",
     "static/css/main.95c4bef5.chunk.css",
-    "static/js/main.2f090bc0.chunk.js"
+    "static/js/main.861f2179.chunk.js"
   ]
 }
